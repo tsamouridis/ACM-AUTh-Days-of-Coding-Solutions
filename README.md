@@ -1,2 +1,2 @@
 # ACM-AUTh-Days-of-Coding - Solutions
-My solutions to AUTh Days of Coding, hosted by ACM.
+My solutions to ACM AUTh Days of Coding.
